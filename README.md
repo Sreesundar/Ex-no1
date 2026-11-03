@@ -215,7 +215,8 @@ END
 
 #### Manual Calculations
 
-![Uploading image.png…]()
+<img width="1280" height="957" alt="image" src="https://github.com/user-attachments/assets/8e00efc1-ad0e-4cbb-ba86-a9312ec3c6cf" />
+
 
 
 ---
